@@ -55,10 +55,5 @@ int main(int argc, char** argv) {
 	std::cout << std::endl;
 	std::cout << "this is changing";
 	std::cout << "this is changing";
-	std::cout << "this is changing";
-	std::cout << "this is changing";
-	std::cout << "this is changing";
-	std::cout << "this is changing";
-	std::cout << "this is changing";
 	return 0;
 }
