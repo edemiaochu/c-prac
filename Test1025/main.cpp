@@ -53,5 +53,6 @@ int main(int argc, char** argv) {
 	QuickSort(arr, 0,sizeof(arr)/4-1);
 	for (auto s : arr) std::cout << s<<",";
 	std::cout << std::endl;
+	std::cout << "this is changing";
 	return 0;
 }
