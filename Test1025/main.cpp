@@ -54,5 +54,8 @@ int main(int argc, char** argv) {
 	for (auto s : arr) std::cout << s<<",";
 	std::cout << std::endl;
 	std::cout << "this is changing";
+	std::cout << "this is changing";
+	std::cout << "this is changing";
+	std::cout << "this is changing";
 	return 0;
 }
